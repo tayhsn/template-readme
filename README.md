@@ -1,11 +1,15 @@
 
 # Nome do Projeto
 
-> [Link do deploy]()
+[Link do deploy]()
+
+> Breve comentário sobre o que seu projeto faz.
+
+![Imagem de demonstração]()
 
 ## Proposta
 
-Fazer um overview sobre o projeto, o que ele faz e pra que ele serve.
+Paragrafo de no maximo 2 linhas explicando o que seu projeto faz com detalhes importantes.
 
 ## Implementações
 
