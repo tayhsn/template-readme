@@ -1,41 +1,62 @@
 
 # Nome do Projeto
 
-[Link do deploy]()
+> Overview da aplicação.
 
-> Breve comentário sobre o que seu projeto faz.
+![Vídeo de demonstração]()
 
-![Imagem de demonstração]()
+## 📲 Link do deploy
 
-## Proposta
+Use a aplicação em [Link do deploy]() 
 
-Paragrafo de no maximo 2 linhas explicando o que seu projeto faz com detalhes importantes.
+## 📑 Sobre o projeto
 
-## Implementações
+Qual o intuito do projeto? Foi realizado como estudos, processo seletivo, atividade curricular? Exponha brevemente.
 
-O projeto possui as seguintes funcionalidades:
+## ✍🏻 Funcionalidades
 
-- 
--
--
-
-Em versões futuras, pretende-se implementar também:
-
--
--
--
-
-## Bibliotecas
-
-Foram utilizadas as seguintes bibliotecas de suporte:
+A aplicação conta com as seguintes funcionalidades:
 
 - 
+-
+-
+
+## 📆 Implementações futuras e melhorias
+
+Este é um projeto em desenvolvimento e ainda conta com melhorias e o incremento de outras funcionalidades, sendo elas:
+
+-
+-
+-
+
+## 🛠 Bibliotecas
+
+Utiliza as seguintes bibliotecas de suporte:
+
 - 
 - 
+- 
 
-## Sobre 
+## 🖥 Contribuindo ou testando localmente 
 
-Falar por que você fez esse projeto. Se é um projeto de estudos, portfólio, processo seletivo, etc....
+```
+# Clone o repositório 
 
+$ git clone github.com/seu-usuario/repositorio.git
+```
 
-#### Autor @ Ano
+```
+# Instale as dependências 
+
+$ npm install
+```
+
+```
+# Rode o projeto
+
+$ npm run dev
+```
+
+## Sugestões 🗣
+
+Caso tenha alguma sugestão ou queira reportar algum bug, abra um issue no repositório. Ficarei muito grata/o com a sua colaboração! 🤝
