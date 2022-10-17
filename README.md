@@ -1,37 +1,35 @@
 
 # Nome do Projeto
 
-> Overview da aplicação.
+> Overview.
 
-![Vídeo de demonstração]()
+![Demonstração]()
 
-## 📲 Link do deploy
-
-Use a aplicação em [Link do deploy]() 
+## 📲 [Link do deploy]() 
 
 ## 📑 Sobre o projeto
 
-Qual o intuito do projeto? Foi realizado como estudos, processo seletivo, atividade curricular? Exponha brevemente.
+Esta aplicação...
 
 ## ✍🏻 Funcionalidades
-
-A aplicação conta com as seguintes funcionalidades:
 
 - 
 -
 -
 
-## 📆 Implementações futuras e melhorias
+## 🧠 Aprendizados
 
-Este é um projeto em desenvolvimento e ainda conta com melhorias e o incremento de outras funcionalidades, sendo elas:
+- 
+-
+-
+
+## 📆 Implementações futuras
 
 -
 -
 -
 
-## 🛠 Bibliotecas
-
-Utiliza as seguintes bibliotecas de suporte:
+## 🛠 Tecnologias utilizadas
 
 - 
 - 
@@ -56,7 +54,3 @@ $ npm install
 
 $ npm run dev
 ```
-
-## Sugestões 🗣
-
-Caso tenha alguma sugestão ou queira reportar algum bug, abra um issue no repositório. Ficarei muito grata/o com a sua colaboração! 🤝
